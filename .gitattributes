@@ -1,0 +1,6 @@
+﻿* text=auto eol=crlf
+*.sln text eol=crlf
+*.cs text eol=crlf
+*.png binary
+*.jpg binary
+*.resx text eol=crlf

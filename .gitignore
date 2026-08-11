@@ -1,0 +1,22 @@
+﻿# Build do Visual Studio
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.cache
+
+# Pacotes NuGet restaurados (recuperados com "nuget restore")
+packages/
+!packages.config
+
+# Logs gerados em runtime pelo NLog
+logs/
+*.log
+
+# Backups do banco gerados pela tela de Backup/Restore
+*.bak
+
+# SO
+Thumbs.db
+.DS_Store

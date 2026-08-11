@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teladelogin", "teladelogin\teladelogin.csproj", "{6F5099FB-DC88-4BEE-B52E-AF7ED4B5C2F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B4303570-C3A8-41B1-8DEA-2C246F19FD6B}"
+	ProjectSection(SolutionItems) = preProject
+		NLog.config = NLog.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F5099FB-DC88-4BEE-B52E-AF7ED4B5C2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5099FB-DC88-4BEE-B52E-AF7ED4B5C2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5099FB-DC88-4BEE-B52E-AF7ED4B5C2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5099FB-DC88-4BEE-B52E-AF7ED4B5C2F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B579C352-1D27-47C2-9CD2-A78C9FD13CCC}
+	EndGlobalSection
+EndGlobal
